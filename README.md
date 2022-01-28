@@ -1,5 +1,7 @@
 # random-referer
 
+[![NPM](https://nodei.co/npm/random-referer.png)](https://www.npmjs.com/package/random-referer)
+
 ## Description
 
 Get a random fake referer url
