@@ -1,6 +1,6 @@
 {
   "name": "random-referer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get a random fake referer url",
   "main": "app.js",
   "scripts": {
