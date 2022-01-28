@@ -1,0 +1,17 @@
+{
+  "name": "random-referer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "namor": "^2.0.3",
+    "random-seed": "^0.3.0"
+  }
+}
