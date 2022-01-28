@@ -12,7 +12,7 @@ Install the module with: `npm install random-referer`
 
 ```javascipt
 const randomReferer = require("random-referer");
-randomReferer.getRandom(); // gets all random fake referer url
+randomReferer.getRandom(); // gets a random fake referer url
 ```
 
 ## License
