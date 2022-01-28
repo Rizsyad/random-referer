@@ -10,7 +10,7 @@ Get a random fake referer url
 
 Install the module with: `npm install random-referer`
 
-```javascipt
+```javascript
 const randomReferer = require("random-referer");
 randomReferer.getRandom(); // gets a random fake referer url
 ```
